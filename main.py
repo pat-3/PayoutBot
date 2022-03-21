@@ -5,6 +5,7 @@ import tweepy
 #         -https://towardsdatascience.com/the-easiest-way-to-pull-stock-data-into-your-python-program-yfinance-82c304ae35dc
 #     -tweepy https://realpython.com/twitter-bot-python-tweepy/
 #         -https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/
+#      -stock price scraper https://github.com/shawnshaligram/stock-price-scraper
         
 # Authenticate to Twitter
 auth = tweepy.OAuthHandler("CONSUMER_KEY", "CONSUMER_SECRET")
