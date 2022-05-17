@@ -21,3 +21,5 @@ def CurrentPrice():
     else:
         print('panic.')
 CurrentPrice()
+
+#thanks lucas for optimizing my code
